@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/09mihir/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=09mihir&label=Profile%20Views&color=blueviolet&style=flat" />
 </div>
 
 <br/>
