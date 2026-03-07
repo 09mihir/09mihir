@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-<img src="assets/gitmeme.png" width="900"/>
+<img src="assets/gitmeme.png" width="500"/>
 </div>
 
 <br/>
