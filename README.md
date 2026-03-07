@@ -70,8 +70,12 @@
 <br/>
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div> -->
+
+<div align="center">
+  <img src="https://git-meme.vercel.app/api/meme-image" alt="Programming Meme" width="500" />
 </div>
 
 <br/>
