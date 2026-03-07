@@ -75,7 +75,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://git-meme.vercel.app/api/meme-image" alt="Programming Meme" width="500" />
+  <img src="" alt="Programming Meme" width="500" />
 </div>
 
 <br/>
