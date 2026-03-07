@@ -63,6 +63,11 @@
 <br/>
 <br/>
 
+<!-- Markdown -->
+<div align="center">
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
 ---
 
 <img src="https://raw.githubusercontent.com/Mihir-patel09/Mihir-patel09/output/snake.svg" alt="Snake animation" />
